@@ -1,0 +1,9 @@
+{
+    "PROJECT_ID": "sonorous-saga-378713",
+    "GCS_TEMP_LOCATION": "gs://cahya-felowship10",
+    "BUCKET_NAME": "cahya-felowship10",
+    "ALL_KEYWORDS_BQ_OUTPUT_TABLE": "sonorous-saga-378713.staging.ALL_KEYWORDS_BQ_OUTPUT_TABLE",
+    "GCS_STG_LOCATION": "gs://fellowship_staging",
+    "MOST_SEARCHED_KEYWORDS_BQ_OUTPUT_TABLE": "sonorous-saga-378713.staging.MOST_SEARCHED_KEYWORDS_BQ_OUTPUT_TABLE",
+    "EVENTS_BQ_TABLE": "sonorous-saga-378713.staging.EVENTS_BQ_TABLE"
+  }
